@@ -1,0 +1,53 @@
+_repo: Enoch-Crane_73453
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+    wikipedia: https://en.wikipedia.org/wiki/Alonzo_Myron_Kimball
+creator:
+  authors:
+  - agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+  - agent_name: Smith, F. Berkeley (Frank Berkeley)
+    alias: Smith, Frank Berkeley
+    birthdate: 1869
+    deathdate: 1931
+    gutenberg_agent_id: '32168'
+    url: http://www.gutenberg.org/2009/agents/32168
+description: ''
+gutenberg_issued: '2024-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73453'
+language: en
+pgterms:marc904: https://archive.org/details/enochcranenovel00smituoft/page/n359/mode/2up
+pgterms:marc905: 20230408175227smith
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Apartment houses -- Fiction'
+- !lcsh 'Greenwich Village (New York, N.Y.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Enoch Crane
+url: http://www.gutenberg.org/ebooks/73453
