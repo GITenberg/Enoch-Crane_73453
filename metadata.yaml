@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '8161'
     url: http://www.gutenberg.org/2009/agents/8161
     wikipedia: https://en.wikipedia.org/wiki/Alonzo_Myron_Kimball
+covers:
+- cover_type: archival
+  image_path: 73453-h/images/coversmall.jpg
 creator:
   authors:
   - agent_name: Smith, Francis Hopkinson
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '32168'
     url: http://www.gutenberg.org/2009/agents/32168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73453#Enoch-Crane
 gutenberg_issued: '2024-04-24'
 gutenberg_type: Text
 identifiers:
